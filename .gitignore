@@ -4,3 +4,4 @@
 /vendor/
 /.editorconfig
 /composer.lock
+/config.php
